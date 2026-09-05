@@ -37,8 +37,8 @@ Please refer to the [Installation Guide](Docs/Installation.md) for detailed setu
 ### Steps
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/in-c0/quantum-wave-simulation.git
-    cd quantum-wave-simulation
+    git clone https://github.com/in-c0/Quantum-wavefunction-simulation.git
+    cd Quantum-wavefunction-simulation
     ```
 
 2. **Build the Fortran Simulation**:
